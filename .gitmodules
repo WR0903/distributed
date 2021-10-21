@@ -1,3 +1,6 @@
 [submodule "dockers/distributedSDK"]
 	path = dockers/distributedSDK
 	url = https://github.com/WR0903/distributedSDK.git
+[submodule "dockers/registryservice"]
+	path = dockers/registryservice
+	url = https://github.com/WR0903/registryservice.git
