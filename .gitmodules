@@ -1,0 +1,3 @@
+[submodule "dockers/distributedSDK"]
+	path = dockers/distributedSDK
+	url = https://github.com/WR0903/distributedSDK.git
