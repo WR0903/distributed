@@ -4,3 +4,12 @@
 [submodule "dockers/registryservice"]
 	path = dockers/registryservice
 	url = https://github.com/WR0903/registryservice.git
+[submodule "dockers/gradingservice"]
+	path = dockers/gradingservice
+	url = https://github.com/WR0903/gradingservice.git
+[submodule "dockers/portal"]
+	path = dockers/portal
+	url = https://github.com/WR0903/portal.git
+[submodule "dockers/logservice"]
+	path = dockers/logservice
+	url = https://github.com/WR0903/logservice.git
